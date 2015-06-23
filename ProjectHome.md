@@ -1,0 +1,1 @@
+A sample Metro-style WPF/.NET 4.0 application.
